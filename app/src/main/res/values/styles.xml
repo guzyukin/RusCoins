@@ -2,4 +2,7 @@
 <resources>
     <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
 	</style>
+	<style name="CategoryButton">
+		<item name="android:textColor">#003333</item>
+	</style>
 </resources>
